@@ -1,0 +1,12 @@
+{
+  "name": "com.Cysharp.ZString",
+  "version": "2.2.0",
+  "displayName": "ZString",
+  "description": "Zero Allocation StringBuilder for .NET Core and Unity.",
+  "unity": "2019.3",
+  "unityRelease": "13f1",},
+  "author": {
+    "name": "Cysharp",
+    "url": "https://cysharp.co.jp/en/"
+  }
+}
