@@ -1,5 +1,5 @@
 {
-  "name": "com.Cysharp.ZString",
+  "name": "com.cysharp.zstring",
   "version": "2.2.0",
   "displayName": "ZString",
   "description": "Zero Allocation StringBuilder for .NET Core and Unity.",
